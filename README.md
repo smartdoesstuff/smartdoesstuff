@@ -2,7 +2,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi, I'm Natnawat
 
-### SMART · LordEaster
+### SMART
 
 **Assistant Researcher · Software Engineering · Unpaid Co-Founder at BSO Space**
 
@@ -13,7 +13,7 @@
   alt="Natnawat Panisarasirikul"
 />
 
-Software Engineering graduate from **Burapha University, Thailand**.
+Software Engineer from **Thailand**.
 
 Currently working as an **Assistant Researcher** and helping build products as a **Unpaid Co-Founder at [BSO Space](https://www.bsospace.com/)**.
 
@@ -30,7 +30,7 @@ I enjoy turning messy ideas into simple (or sometime simple into messy), useful,
 [![Website](https://img.shields.io/badge/Website-with_Yamroll-222222?style=flat-square)](https://www.withyamroll.com/)
 [![BSO Space](https://img.shields.io/badge/BSO_Space-Co--Founder-222222?style=flat-square)](https://www.bsospace.com/about/natnawat)
 [![YouTube](https://img.shields.io/badge/YouTube-smart__natnawat-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@withyamroll)
-[![GitHub](https://img.shields.io/badge/GitHub-LordEaster-181717?style=flat-square&logo=github)](https://github.com/lordeaster)
+[![GitHub](https://img.shields.io/badge/GitHub-smartdoesstuff-181717?style=flat-square&logo=github)](https://github.com/smartdoesstuff)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Natnawat-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natnawat)
 [![Medium](https://img.shields.io/badge/Medium-Natnawat-000000?style=flat-square&logo=medium)](https://natnawat.medium.com/)
 
@@ -93,14 +93,14 @@ A self-hosted online studio for bringing multiple cameras, microphones, and scre
 
   <br>
 
-  ![](https://github-profile-trophy.vercel.app/?username=lordeaster&no-frame=false&no-bg=false&margin-w=4)
+  ![](https://github-profile-trophy.vercel.app/?username=smartdoesstuff&no-frame=false&no-bg=false&margin-w=4)
 
-  ![](https://github-readme-stats.vercel.app/api?username=lordeaster&hide_border=false&include_all_commits=true&count_private=true)
+  ![](https://github-readme-stats.vercel.app/api?username=smartdoesstuff&hide_border=false&include_all_commits=true&count_private=true)
 
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=lordeaster&hide_border=false)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=smartdoesstuff&hide_border=false)
 
 </details>
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/lordeaster/lordeaster/refs/heads/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/smartdoesstuff/smartdoesstuff/refs/heads/output/github-contribution-grid-snake.svg)
