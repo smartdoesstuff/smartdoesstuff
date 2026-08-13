@@ -27,9 +27,9 @@ I enjoy turning messy ideas into simple (or sometime simple into messy), useful,
 
 > **Be Simple but Outstanding.**
 
-[![Website](https://img.shields.io/badge/Website-with_Yamroll-222222?style=flat-square)](https://www.withyamroll.com/)
+[![Website](https://img.shields.io/badge/Website-smart_does_stuff-222222?style=flat-square)](https://www.smartdoesstuff.com/)
 [![BSO Space](https://img.shields.io/badge/BSO_Space-Co--Founder-222222?style=flat-square)](https://www.bsospace.com/about/natnawat)
-[![YouTube](https://img.shields.io/badge/YouTube-smart__natnawat-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@withyamroll)
+[![YouTube](https://img.shields.io/badge/YouTube-smart_does_stuff-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@smartdoesstuff)
 [![GitHub](https://img.shields.io/badge/GitHub-smartdoesstuff-181717?style=flat-square&logo=github)](https://github.com/smartdoesstuff)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Natnawat-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natnawat)
 [![Medium](https://img.shields.io/badge/Medium-Natnawat-000000?style=flat-square&logo=medium)](https://natnawat.medium.com/)
